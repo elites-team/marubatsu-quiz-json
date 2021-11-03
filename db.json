@@ -2,7 +2,7 @@
   questions: [
     {
       "question": "iPhoneアプリを開発する統合環境はZcodeである",
-      "answer": false
+      "answer": "false"
     }
   ]
 }
