@@ -1,11 +1,43 @@
 {
     "questions": [
         {
-            "question": "iPhoneアプリを開発する統合環境はZcodeである",
+            "question": "「テトリス（ゲーム）」を開発したのは、日本人だ。",
             "answer": "false"
         },
         {
-            "question": "iPhoneアプリを開発する統合環境はZcodeである",
+            "question": "生きている間は、有名な人であっても広辞苑に載ることはない",
+            "answer": "true"
+        },
+        {
+            "question": "現在、2000円札は製造を停止している",
+            "answer": "true"
+        },
+        {
+            "question": "パトカーは、取り締まっている最中であれば、どこでも駐車違反になることはない。",
+            "answer": "false"
+        },
+        {
+            "question": "昆虫の中には、口で呼吸する昆虫もいる。",
+            "answer": "false"
+        },
+        {
+            "question": "一般的に体の水分は、男性より女性のほうが多く含まれている",
+            "answer": "false"
+        },
+        {
+            "question": "たとえ１ｃｍの高さであっても、地震によって起こるのは全て「津波」である",
+            "answer": "true"
+        },
+        {
+            "question": "1円玉の直径は、ちょうど１ｃｍになっている。",
+            "answer": "false"
+        },
+        {
+            "question": "塩はカロリー０である。",
+            "answer": "true"
+        },
+        {
+            "question": "「小中学校は、PTAを作らなければならない」と法律で定められている。",
             "answer": "false"
         }
     ]
